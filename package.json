@@ -1,0 +1,11 @@
+{
+  "name": "poulet-money",
+  "version": "1.0.0",
+  "description": "projet 4GI programmation web",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TCHUENKAM-TCHOUNKEU-TCHUITSE-TAMWI",
+  "license": "ISC"
+}
